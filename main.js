@@ -2,7 +2,7 @@ stats = ''
 
 function setup() {
     canvas = createCanvas(400, 280);
-    canvas.position(710, 450);
+    canvas.position(750, 450);
 
     video = createCapture(VIDEO);
     video.size(380, 380);
